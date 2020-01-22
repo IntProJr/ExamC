@@ -1,0 +1,3 @@
+/Users/intpro/Desktop/myExamC/3_lvl/add_prime_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/intpro/Desktop/myExamC/3_lvl/add_prime_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/intpro/Desktop/myExamC/3_lvl/add_prime_sum/cmake-build-debug/CMakeFiles/add_prime_sum.dir

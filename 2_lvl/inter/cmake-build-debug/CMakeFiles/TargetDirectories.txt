@@ -1,0 +1,3 @@
+/Users/intpro/Desktop/myExamC/2_lvl/inter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/intpro/Desktop/myExamC/2_lvl/inter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/intpro/Desktop/myExamC/2_lvl/inter/cmake-build-debug/CMakeFiles/inter.dir

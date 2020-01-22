@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/intpro/Desktop/myExamC/2_lvl/print_bits/print_bits.c
+stdio.h
+-
+unistd.h
+-
+
+/Users/intpro/Desktop/myExamC/2_lvl/print_bits/print_bits_1.c
+unistd.h
+-
+

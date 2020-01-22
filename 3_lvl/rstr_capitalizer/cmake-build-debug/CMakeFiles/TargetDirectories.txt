@@ -1,0 +1,3 @@
+/Users/lrosalee/Desktop/myExamC/3_lvl/rstr_capitalizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lrosalee/Desktop/myExamC/3_lvl/rstr_capitalizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lrosalee/Desktop/myExamC/3_lvl/rstr_capitalizer/cmake-build-debug/CMakeFiles/rstr_capitalizer.dir

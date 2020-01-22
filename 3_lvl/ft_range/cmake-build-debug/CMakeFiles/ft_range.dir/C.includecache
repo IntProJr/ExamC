@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lrosalee/Desktop/myExamC/3_lvl/ft_range/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

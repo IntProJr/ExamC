@@ -1,0 +1,3 @@
+/Users/intpro/Desktop/myExamC/3_lvl/expand_str/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/intpro/Desktop/myExamC/3_lvl/expand_str/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/intpro/Desktop/myExamC/3_lvl/expand_str/cmake-build-debug/CMakeFiles/expand_str.dir
