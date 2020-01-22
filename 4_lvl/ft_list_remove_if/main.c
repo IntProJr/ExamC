@@ -1,0 +1,28 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   main.c                                             :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: lrosalee <lrosalee@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/01/22 19:23:13 by lrosalee          #+#    #+#             */
+/*   Updated: 2020/01/22 19:26:13 by lrosalee         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#include <stdio.h>
+#include "ft_list.h"
+
+void	ft_list_remove_if(t_list **begin_list, void *data_ref, int (*cmp)())
+{
+	t_list	*tmp;
+	t_list 	*i;
+
+	while (*begin_list && !)
+}
+
+int main()
+{
+	printf("Hello, World!\n");
+	return 0;
+}
