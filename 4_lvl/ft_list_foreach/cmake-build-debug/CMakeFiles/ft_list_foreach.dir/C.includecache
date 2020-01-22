@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lrosalee/Documents/git/ExamC/4_lvl/ft_list_foreach/ft_list.h
+
+/Users/lrosalee/Documents/git/ExamC/4_lvl/ft_list_foreach/main.c
+stdio.h
+-
+ft_list.h
+/Users/lrosalee/Documents/git/ExamC/4_lvl/ft_list_foreach/ft_list.h
+
