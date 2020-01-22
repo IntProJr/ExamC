@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/intpro/Documents/gitHub/MyExamC/4_lvl/ft_itoa/main.c" "/Users/intpro/Documents/gitHub/MyExamC/4_lvl/ft_itoa/cmake-build-debug/CMakeFiles/ft_itoa.dir/main.c.o"
+  "/Users/intpro/Documents/gitHub/ExamC/4_lvl/ft_itoa/main.c" "/Users/intpro/Documents/gitHub/ExamC/4_lvl/ft_itoa/cmake-build-debug/CMakeFiles/ft_itoa.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/intpro/Documents/gitHub/MyExamC/4_lvl/ft_itoa
+# Install script for directory: /Users/intpro/Documents/gitHub/ExamC/4_lvl/ft_itoa
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/intpro/Documents/gitHub/MyExamC/4_lvl/ft_itoa/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/intpro/Documents/gitHub/ExamC/4_lvl/ft_itoa/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
