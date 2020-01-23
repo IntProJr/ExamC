@@ -1,4 +1,4 @@
-# Install script for directory: /Users/intpro/Documents/gitHub/ExamC/4_lvl/sort_list
+# Install script for directory: /Users/lrosalee/Documents/git/ExamC/4_lvl/sort_list
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/intpro/Documents/gitHub/ExamC/4_lvl/sort_list/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/lrosalee/Documents/git/ExamC/4_lvl/sort_list/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
