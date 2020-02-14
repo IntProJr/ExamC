@@ -1,0 +1,54 @@
+Assignment name  : options
+Expected files   : *.c *.h
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes an undefined number of arguments which could be 
+considered as options and writes on standard output a representation of those
+options as groups of bytes followed by a newline.
+
+Напишите программу, которая принимает неопределенное число аргументов, которые
+ могут быть рассматриваются как варианты и записывается на стандартный вывод
+ представление тех параметры в виде групп байтов, за которыми следует новая строка.
+
+An option is an argument that begins by a '-' and have multiple characters 
+which could be : abcdefghijklmnopqrstuvwxyz
+
+Опция-это аргумент, который начинается с " - " и имеет несколько символов
+что может быть: abcdefghijklmnopqrstuvwxyz
+
+All options are stocked in a single int and each options represents a bit of that
+int, and should be stocked like this :
+
+Все опции хранятся в одном int, и каждая опция представляет собой часть этого
+int, и должны быть снабжены вот так :
+
+00000000 00000000 00000000 00000000
+******zy xwvutsrq ponmlkji hgfedcba
+
+Launch the program without arguments or with the '-h' flag activated must print
+an usage on the standard output, as shown in the following examples.
+
+A wrong option must print "Invalid Option" followd by a newline.
+
+
+214 / 10000
+РУССКИЙ
+Перевести вGoogleBing
+Запуск программы без аргументов или с включенным флагом' - h ' должен печатать
+использование стандартного вывода, Как показано в следующих примерах.
+
+Неправильный параметр должен вывести "недопустимый параметр", за которым
+следует новая строка.
+
+Examples :
+$>./options
+options: abcdefghijklmnopqrstuvwxyz
+$>./options -abc -ijk
+00000000 00000000 00000111 00000111
+$>./options -z
+00000010 00000000 00000000 00000000
+$>./options -abc -hijk
+options: abcdefghijklmnopqrstuvwxyz
+$>./options -%
+Invalid Option
